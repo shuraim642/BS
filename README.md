@@ -1,1 +1,1 @@
-# BS-Dissertation
+# BS
